@@ -87,6 +87,8 @@ supply-chain-analytics/
 
 ## 🖼️ Dashboard Preview
 
+<img width="1177" height="661" alt="image" src="https://github.com/user-attachments/assets/6a5f234b-222b-4a9a-9ea3-1a3ef7718da7" />
+
 
 
 ## 🛠️ Skills Demonstrated
