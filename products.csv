@@ -1,0 +1,49 @@
+Product_ID,Product_Name,Category,Unit_Price_INR
+PRD1001,Orange Juice 1L,Beverages,389.06
+PRD1002,Cola 500ml,Beverages,29.63
+PRD1003,Mineral Water 1L,Beverages,175.89
+PRD1004,Green Tea Pack,Beverages,145.58
+PRD1005,Coffee Powder 200g,Beverages,445.84
+PRD1006,Lemon Soda 500ml,Beverages,410.87
+PRD1007,Energy Drink 250ml,Beverages,536.93
+PRD1008,Mango Juice 1L,Beverages,65.86
+PRD1009,Milk 1L,Dairy,261.82
+PRD1010,Paneer 200g,Dairy,32.43
+PRD1011,Butter 100g,Dairy,142.9
+PRD1012,Curd 400g,Dairy,310.63
+PRD1013,Cheese Slice Pack,Dairy,30.52
+PRD1014,Ghee 500ml,Dairy,131.32
+PRD1015,Potato Chips 100g,Snacks,395.18
+PRD1016,Namkeen Mix 200g,Snacks,333.79
+PRD1017,Biscuit Pack,Snacks,143.96
+PRD1018,Popcorn 150g,Snacks,359.72
+PRD1019,Chocolate Bar,Snacks,488.52
+PRD1020,Basmati Rice 5kg,Grains & Pulses,18.8
+PRD1021,Toor Dal 1kg,Grains & Pulses,486.4
+PRD1022,Wheat Flour 5kg,Grains & Pulses,423.41
+PRD1023,Moong Dal 1kg,Grains & Pulses,214.05
+PRD1024,Sugar 1kg,Grains & Pulses,105.96
+PRD1025,Banana Dozen,Fruits & Vegetables,574.97
+PRD1026,Onion 1kg,Fruits & Vegetables,211.91
+PRD1027,Potato 1kg,Fruits & Vegetables,69.26
+PRD1028,Tomato 1kg,Fruits & Vegetables,71.58
+PRD1029,Apple 1kg,Fruits & Vegetables,510.78
+PRD1030,Spinach Bunch,Fruits & Vegetables,368.18
+PRD1031,Bread Loaf,Bakery,487.17
+PRD1032,Bun Pack,Bakery,441.89
+PRD1033,Cake Slice,Bakery,328.69
+PRD1034,Cookies Pack,Bakery,584.27
+PRD1035,Frozen Peas 500g,Frozen Foods,236.44
+PRD1036,Ice Cream Tub,Frozen Foods,337.94
+PRD1037,Frozen Paratha Pack,Frozen Foods,500.2
+PRD1038,Shampoo 200ml,Personal Care,376.83
+PRD1039,Soap Bar,Personal Care,519.1
+PRD1040,Toothpaste 100g,Personal Care,352.75
+PRD1041,Hand Wash 250ml,Personal Care,427.17
+PRD1042,Dish Wash Liquid,Household,41.81
+PRD1043,Detergent Powder 1kg,Household,148.32
+PRD1044,Floor Cleaner 1L,Household,184.29
+PRD1045,USB Cable,Electronics Accessories,61.68
+PRD1046,Phone Charger,Electronics Accessories,151.18
+PRD1047,Earphones,Electronics Accessories,74.09
+PRD1048,Power Bank 10000mAh,Electronics Accessories,177.61
