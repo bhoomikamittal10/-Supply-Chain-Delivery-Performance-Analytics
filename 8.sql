@@ -1,0 +1,8 @@
+SELECT *, 
+    ROW_NUMBER() OVER (PARTITION BY Order_ID ORDER BY Order_ID) AS row_num
+FROM orders
+WHERE Order_ID IN (
+    SELECT Order_ID FROM orders GROUP BY Order_ID HAVING COUNT(*) > 1
+)
+ORDER BY Order_ID
+LIMIT 20;
